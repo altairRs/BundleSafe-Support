@@ -19,5 +19,4 @@ BundleSafe works locally. It has no accounts, analytics, telemetry, or network
 service.
 
 [Report a problem](https://github.com/altairRs/BundleSafe-Support/issues) ·
-[Privacy policy](PRIVACY.md) · [Security](SECURITY.md)
-
+[Privacy policy](PRIVACY.html) · [Security](SECURITY.html)
