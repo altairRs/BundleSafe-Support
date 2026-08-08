@@ -1,0 +1,26 @@
+name: Feature request
+description: Describe a resource-bundle workflow BundleSafe should support.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the current workflow and where it becomes unsafe or slow.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What outcome would help?
+      description: Focus on the result rather than a specific UI implementation.
+    validations:
+      required: true
+  - type: input
+    id: scale
+    attributes:
+      label: Approximate bundle size
+      placeholder: 12 locale files, about 800 keys each
+
