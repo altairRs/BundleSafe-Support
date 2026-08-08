@@ -1,7 +1,7 @@
 # BundleSafe
 
-BundleSafe edits one Java `.properties` key across its locale files and shows the
-exact per-file change before anything is written.
+BundleSafe lets you update one Java `.properties` key across its locale files.
+Before applying the edit, it shows what will change in each file.
 
 It preserves comments, ordering, separators, escapes, byte-order marks, encodings,
 and line endings outside the selected values. Multi-file changes are applied as
@@ -25,7 +25,4 @@ private project. Use invented values in a reduced reproduction.
 - [Request a feature](https://github.com/altairRs/BundleSafe-Support/issues/new?template=feature.yml)
 - [Privacy policy](PRIVACY.md)
 - [Security policy](SECURITY.md)
-
-The BundleSafe source repository is private. This repository contains public
-documentation and issue tracking only.
 
