@@ -25,4 +25,4 @@ private project. Use invented values in a reduced reproduction.
 - [Request a feature](https://github.com/altairRs/BundleSafe-Support/issues/new?template=feature.yml)
 - [Privacy policy](PRIVACY.md)
 - [Security policy](SECURITY.md)
-
+- [End User License Agreement](EULA.md)

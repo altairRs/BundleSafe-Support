@@ -18,4 +18,5 @@ BundleSafe works locally and does not collect usage data or send file contents
 over the network.
 
 [Report a problem](https://github.com/altairRs/BundleSafe-Support/issues) ·
-[Privacy policy](PRIVACY.html) · [Security](SECURITY.html)
+[Privacy policy](PRIVACY.html) · [Security](SECURITY.html) ·
+[License](EULA.html)
