@@ -17,6 +17,12 @@ across its locale files and previews each file before applying the edit.
 BundleSafe works locally and does not collect usage data or send file contents
 over the network.
 
+## Notes on `.properties` files
+
+- [Editing a value without rewriting the file](editing-without-rewriting.html)
+- [Why line endings and escape spelling change](line-endings-and-escapes.html)
+- [UTF-8, BOMs, and `\uXXXX` escapes](properties-encodings.html)
+
 [Report a problem](https://github.com/altairRs/BundleSafe-Support/issues) ·
 [Privacy policy](PRIVACY.html) · [Security](SECURITY.html) ·
 [License](EULA.html)
